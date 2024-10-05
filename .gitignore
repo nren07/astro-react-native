@@ -1,0 +1,36 @@
+# Node.js (server)
+server/node_modules/
+server/package-lock.json
+server/yarn-error.log
+server/yarn.lock
+server/.env
+server/logs/
+
+# React Native (client)
+client/node_modules/
+client/package-lock.json
+client/yarn-error.log
+client/yarn.lock
+client/.env
+client/.expo/
+client/android/.gradle/
+client/android/app/build/
+client/ios/build/
+client/ios/Pods/
+client/ios/Podfile.lock
+client/.idea/
+client/.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mac system files
+.DS_Store
+
+# Others
+npm-debug.log*
+
